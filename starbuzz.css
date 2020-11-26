@@ -1,16 +1,19 @@
 body {
     background-color: burlywood;
+    text-align: center;
+    text-decoration: line-through;
 }
 h1 {
     color: orangered;
     text-align: center;
+    text-decoration: cotted;
 }
 h2 {
     color: green;
+    text-decoration: black;
 }
 h3 {
     color: blue;
-}
-h4 {
-    color: brown
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: yellow;
 }
