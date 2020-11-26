@@ -8,7 +8,7 @@ h1 {
     color: orangered;
     text-align: center;
     text-decoration: cotted;
-    font-size: large;
+    font-size: 14px;
    }
 h2 {
     color: green;
@@ -18,4 +18,11 @@ h3 {
     color: blue;
     font-family: 'Courier New', Courier, monospace;
     text-decoration: yellow;
+}
+body {
+    background-color: yellow;
+}
+h5 {
+   color: gray;
+   font-family: sans-serif;
 }
