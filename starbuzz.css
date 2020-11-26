@@ -3,11 +3,12 @@ body {
     background-color: burlywood;
     text-align: center;
     text-decoration: line-through;
-    }
+    text-decoration-style: dotted;    
+}
 h1 {
     color: orangered;
     text-align: center;
-    text-decoration: cotted;
+    text-decoration: dotted;
     font-size: 14px;
    }
 h2 {
