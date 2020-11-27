@@ -8,7 +8,7 @@ body {
 h1 {
     color: orangered;
     text-align: center;
-    text-decoration: dotted;
+    text-decoration: line-through;
     font-size: 14px;
    }
 h2 {
