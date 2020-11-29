@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: dotted;
+}
+h1 {
+    color: orange;
+    font-family: sans-serif;
+    text-decoration: dotted;
+}
+h2 {
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+}
+h3 {
+    color:yellow;
+    font-family: Open Sans;
+    text-decoration:dotted;
+}
+h4 {
+    color:green
+}
+h5 {
+    color: firebrick;
+    font-family: sans-serif;
+}
+list {
+    color: forestgreen;
+    font-family: Nerko one,Open Sans;
+}
