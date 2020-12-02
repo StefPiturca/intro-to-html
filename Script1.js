@@ -4,6 +4,6 @@ var button = document.getElementById("button");
 
 button.addEventListener("click", function(){
     var Newmessages = document.createElement("<li>");
-    newmessage.innerHTML = textbox.nodeValue;
-    messages.appendChild(newmessage);
+    Newmessages.innerHTML = textbox.nodeValue;
+    messages.appendChild(Newmessages);
 });
