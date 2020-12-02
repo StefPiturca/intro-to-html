@@ -1,9 +1,9 @@
-var messages = document.getElementById("messages");
+var message = document.getElementById("messages");
 var textbox = document.getElementById("textbox");
 var button = document.getElementById("button");
 
 button.addEventListener("click", function(){
-    var Newmessages = document.createElement("<li>");
-    Newmessages.innerHTML = textbox.nodeValue;
-    messages.appendChild(Newmessages);
+    var newmessage = document.createElement("li");
+    newmessage.innerHTML = textbox.nodeValue;
+    message.appendChild(newmessage);
 });
