@@ -5,3 +5,7 @@ if(isMale & isTall){
 } else {
     document.write("you are not male");
 }
+var newmessage= document.createElement("li");
+newmessage.appendChild("You are male");
+button.addEventListener("");
+textbox.innerHTML()= textbox.Value;
