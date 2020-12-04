@@ -1,3 +1,6 @@
+body{
+    height: 200vh;
+}
 div {
     width: 5em;
     height: 5em;
