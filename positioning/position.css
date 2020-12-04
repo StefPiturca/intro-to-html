@@ -3,6 +3,10 @@ div {
     height: 5em;
     line-height: 5em;
     text-align:center;
+   top:3em;
+   left: auto;
+   right:auto;
+   bottom: 1em;
 }
 #a {
     background-color: darkorange;
