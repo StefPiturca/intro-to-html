@@ -1,0 +1,16 @@
+div {
+    width: 5em;
+    height: 5em;
+}
+#a {
+    background-color: darkorange;
+}
+#b {
+    background-color: pink;
+}
+#c {
+    background-color: blue;
+}
+#d {
+    background-color: darkblue;
+}
