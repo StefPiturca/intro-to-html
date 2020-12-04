@@ -1,4 +1,7 @@
 @import url('https://fonts.google.com/specimen/Nerko+One');
+* {
+    box-sizing: border-box;
+}
 body {
     background-color: burlywood;
     text-align: center;
@@ -6,6 +9,20 @@ body {
    font-family: sans-serif;  
    font-family: Nerko One,Open Sans;
    font-weight: 700;
+}
+blockquote {
+    background-color: steelblue;
+    margin: 3em;
+    padding: 1em;
+    margin-top:2em;
+    margin-left:auto;
+    margin-right:auto;
+    border-color: orange;
+    border: 1em;
+    margin-bottom: 1em;
+    font-style: italic;
+    text-decoration-style: dotted;
+   box-sizing: border-box;
 }
 h1 {
     color: orangered;
@@ -27,4 +44,8 @@ body {
 h5 {
    color: gray;
    font-family: sans-serif;
+}
+span {
+    color:red;
+    font-style: italic;
 }
