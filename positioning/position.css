@@ -37,12 +37,12 @@ div {
 }
 #copil {
     background-color:tomato;
-   position: relative;
+   position: absolute;
    top: 2em;
 }
 #parinte {
     background-color: forestgreen;
     width: 10em;
     height: 10em;
-   position: relative; 
+   position: fixed;
 }
