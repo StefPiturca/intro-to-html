@@ -28,6 +28,9 @@ div {
 
 #c {
     background-color: blue;
+    position: fixed;
+    top: 0em;
+    left: 50%;
 }
 #d {
     background-color: darkblue;
