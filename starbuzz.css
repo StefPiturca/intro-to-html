@@ -70,9 +70,7 @@ h5 {
     text-decoration-color: orangered;
 }
 ol {
-    list-style-type: symbols('♠','♥');
+    list-style-type: '♥';
     list-style-position: inside;
-    list-style-image: url();
-    
     font-family: sans-serif;
 }
