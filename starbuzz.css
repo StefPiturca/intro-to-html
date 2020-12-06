@@ -28,6 +28,7 @@ blockquote {
    text-decoration-line: underline;
    text-decoration-color: red;
    border-style:dotted;
+   border-radius: 10px;
 }
 h1 {
     color: orangered;
