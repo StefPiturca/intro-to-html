@@ -74,3 +74,7 @@ ol {
     list-style-position: inside;
     font-family: sans-serif;
 }
+h1,h3 {
+    text-decoration-line:underline;
+    font-family: 'Ubuntu';
+}
