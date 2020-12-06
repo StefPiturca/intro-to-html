@@ -78,7 +78,7 @@ h1,h3 {
     text-decoration-line:underline;
     font-family: 'Ubuntu';
 }
-#pret {
+p.pret {
     font-weight: bold;
     color: darkorange;
     font-size:1.2em;
