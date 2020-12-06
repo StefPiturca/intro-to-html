@@ -29,6 +29,8 @@ blockquote {
    text-decoration-color: red;
    border-style:dotted;
    border-radius: 10px;
+   width: 60%;
+   height: 5em;
 }
 h1 {
     color: orangered;
