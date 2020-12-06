@@ -49,3 +49,9 @@ span {
     color:red;
     font-style: italic;
 }
+p {
+    display: inline;
+}
+img {
+    display: block;
+}
