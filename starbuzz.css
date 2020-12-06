@@ -87,3 +87,10 @@ p.pret {
     color: darkorange;
     font-size:1.2em;
 }
+a {
+    margin: 2em;
+    border-style: dotted;
+    padding: 1em;
+   width: 50%;
+  height: 5em;
+}
