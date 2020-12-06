@@ -69,8 +69,8 @@ h5 {
     text-decoration-line: underline;
     text-decoration-color: orangered;
 }
-ul {
-    list-style-type: '→';
+ol {
+    list-style-type: '∎';
     list-style-position: inside;
     list-style-image: url();
    font-family: sans-serif;
