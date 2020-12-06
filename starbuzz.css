@@ -23,6 +23,8 @@ blockquote {
     font-style: italic;
     text-decoration-style: dotted;
    box-sizing: border-box;
+   font-family: 'Lato', sans-serif;
+   font-family: 'Ubuntu', sans-serif;
 }
 h1 {
     color: orangered;
