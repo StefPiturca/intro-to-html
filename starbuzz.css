@@ -70,5 +70,8 @@ h5 {
     text-decoration-color: orangered;
 }
 ul {
-    list-style-type: lower-greek;
+    list-style-type: '→';
+    list-style-position: inside;
+    list-style-image: url();
+   font-family: sans-serif;
 }
