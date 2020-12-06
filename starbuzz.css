@@ -21,12 +21,12 @@ blockquote {
     border: 1em;
     margin-bottom: 1em;
     font-style: italic;
-    text-decoration-style: dotted;
-   box-sizing: border-box;
+    box-sizing: border-box;
    font-family: 'Lato', 'Ubuntu';
    font-weight: 400;
    text-decoration-style: dotted;
-   text-decoration: line-through;
+   text-decoration-line: underline;
+   text-decoration-color: red;
 }
 h1 {
     color: orangered;
@@ -58,4 +58,8 @@ p {
 }
 img {
     display: block;
+}
+div {
+    font-family: 'Ubuntu';
+    text-decoration-color: yellow;
 }
