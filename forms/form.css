@@ -8,3 +8,6 @@ button {
 label {
     font-family: sans-serif;
 }
+textarea {
+    display: block;
+}
