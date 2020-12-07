@@ -1,0 +1,10 @@
+body {
+ background-color: burlywood;
+}
+h1 {
+    text-decoration-line: underline;
+}
+ol {
+    font-family:italic;
+    text-decoration-line:underline;
+}
