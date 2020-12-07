@@ -10,9 +10,16 @@ th {
     border-color:firebrick;
     background-color: olive;
     color:white;
+   padding: 0,5em;
 }
 td {
     border-style:solid;
     border-color: olive;
+    padding: 0,5em;
+   text-transform: uppercase;
+}
+tr {
+    border-style:solid;
+    border-color: steelblue;
     padding: 0,5em;
 }
