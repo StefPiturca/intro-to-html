@@ -4,7 +4,16 @@ input {
 }
 button {
     display: block;
+    background-color: rgb(0,255,153);
+    /*
+    vom schimba stilul butonului
+    */
+   border-style: none;
+ padding: 0,5em;
+color: tomato;
+width:7em;
 }
+
 label {
     font-family: sans-serif;
     display: block;
