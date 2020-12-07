@@ -1,0 +1,18 @@
+table {
+    border-style:solid;
+    border-color: teal;
+    border-spacing: 0;
+border-collapse: collapse;
+}
+
+th {
+    border-style:solid;
+    border-color:firebrick;
+    background-color: olive;
+    color:white;
+}
+td {
+    border-style:solid;
+    border-color: olive;
+    padding: 0,5em;
+}
