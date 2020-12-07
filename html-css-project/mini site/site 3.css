@@ -1,0 +1,11 @@
+body {
+    background-color: darkorange;
+    font-family: 'Courier New';
+    font-size: bold;
+    text-decoration-style: dotted;
+    text-decoration-line:underline;
+}
+h1,h2 {
+    font-family:sans-serif;
+    text-decoration-line:underline;
+}
