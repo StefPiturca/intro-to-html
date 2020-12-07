@@ -7,7 +7,12 @@ button {
 }
 label {
     font-family: sans-serif;
+    display: block;
 }
 textarea {
     display: block;
+}
+select {
+    display:block;
+    margin-bottom: 0,5em;
 }
