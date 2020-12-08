@@ -25,9 +25,6 @@ img {
     width: 125px;
 }
 
-body {
-    text-align: center;
-}
 
 #loading1 {
     animation: rotate 4s linear infinite;
