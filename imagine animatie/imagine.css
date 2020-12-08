@@ -36,3 +36,22 @@ body {
         -webkit-transform: rotate(90deg)
     }
 }
+@keyframes fast {
+    from {
+        -webkit-transform: rotate(91deg)
+    }
+
+    to {
+        -webkit-transform: rotate(270deg)
+    }
+}
+
+@keyframes slow2 {
+    from {
+        -webkit-transform: rotate(271deg)
+    }
+
+    to {
+        -webkit-transform: rotate(359deg)
+    }
+}
