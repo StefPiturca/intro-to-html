@@ -1,0 +1,38 @@
+#img {
+    width: 125px;
+}
+
+body {
+    text-align: center;
+}
+
+#loading {
+    animation: slow 1.5s linear 1.5s, fast 1s linear 1s, slow2 1s linear 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slow {
+    from {
+        -webkit-transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(90deg)
+    }
+}
+#img1 {
+    widows: 125px;
+}
+#loading {
+        animation: slow 1,5s linear 1,5s, fast 1,5s;
+      animation-iteration-count: infinite;
+}
+@keyframes slow {
+    from {
+        -webkit-transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(90deg)
+    }
+}
