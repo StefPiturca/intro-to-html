@@ -1,12 +1,13 @@
 input {
     display:block;
     color: red;
-    margin-top:0.5em;
-    padding: 0,5em;
-    margin-bottom: 0,5em;
+  margin: 0.2em 0 0,7em 0;
 }
 label {
     display:block;
     color: green;
-
+    font-family:sans-serif;
+}
+textarea {
+    display:block;
 }
