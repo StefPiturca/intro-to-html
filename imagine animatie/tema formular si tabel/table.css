@@ -10,7 +10,7 @@ td {
 padding:0,5em;
    
     border-style: solid;
-  
+    color: yellow;
     border-collapse: collapse;
 }
 
@@ -19,7 +19,7 @@ tr {
     padding: 0.5em;
 
     border-style:solid; 
- 
+    color:yellow;
     border-collapse: collapse;
 }
 body {
