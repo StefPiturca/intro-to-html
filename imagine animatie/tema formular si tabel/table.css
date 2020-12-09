@@ -1,35 +1,33 @@
 th{
-    background-color: rebeccapurple;
-  padding: 0,5em;
- color: red;
+ padding: 0,5em;
+
 border-style:solid;
-border-color: darkred;
+
 border-collapse: collapse;
 }
 
 td {
-    background-color: burlywood;
-    padding:0,5em;
-    color:darkorange;
+padding:0,5em;
+   
     border-style: solid;
-    border-color: orange;
+  
     border-collapse: collapse;
 }
 
 tr {
-    background-color: tomato;
+   
     padding: 0.5em;
-    color: olive;
+
     border-style:solid; 
-    border-color: steelblue;
+ 
     border-collapse: collapse;
 }
 table {
-    background-color: darkblue;
+ 
     padding:0,5em;
-    color:tomato;
+ 
     border-style:solid;
-    border-color: forestgreen;
+
    border-spacing: 0;
    border-collapse: collapse;
 }
