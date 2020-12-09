@@ -22,15 +22,6 @@ tr {
  
     border-collapse: collapse;
 }
-table {
- 
-    padding:0,5em;
-    width:5em;
-    border-style:solid;
-   height:5em;
-   border-spacing: 5em;
-   border-collapse: collapse;
-}
 body {
     background-color: olive;
 }
