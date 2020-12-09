@@ -23,3 +23,6 @@ tr {
     border-color: steelblue;
     padding: 0,5em;
 }
+body {
+    background-color: steelblue;
+}
