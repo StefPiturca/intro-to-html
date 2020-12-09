@@ -1,26 +1,30 @@
 th{
-    display:inline;
-   margin: 0,5em 0em 0,5em 0em;
+    margin: 0,5em 0em 0,5em 0em;
   padding: 0,5em;
  color: red;
+border-style:solid;
+border-color: darkred;
 }
 
 td {
-    display: block;
     margin: 0,5em 0em 0,5em 0em;
     padding:0,5em;
-    color:darkorange
+    color:darkorange;
+    border-style: solid;
+    border-color: orange;
 }
 
 tr {
-    display:block;
     margin:0,5em 0em 0,5em 0;
     padding: 0.5em;
     color: olive;
- }
+    border-style:solid; 
+    border-color: steelblue;
+}
 table {
-    display:block;
     margin:0,5em 0 0,5em 0;
     padding:0,5em;
     color:tomato;
+    border-style:solid;
+    border-color: forestgreen;
 }
