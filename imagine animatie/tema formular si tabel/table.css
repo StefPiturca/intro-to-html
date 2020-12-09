@@ -12,6 +12,7 @@ td {
     color:darkorange;
     border-style: solid;
     border-color: orange;
+    border-collapse: collapse;
 }
 
 tr {
@@ -20,6 +21,7 @@ tr {
     color: olive;
     border-style:solid; 
     border-color: steelblue;
+    border-collapse: collapse;
 }
 table {
     background-color: darkblue;
