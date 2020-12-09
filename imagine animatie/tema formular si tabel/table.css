@@ -1,5 +1,5 @@
 th{
-    margin: 0,5em 0em 0,5em 0em;
+    background-color: rebeccapurple;
   padding: 0,5em;
  color: red;
 border-style:solid;
@@ -7,7 +7,7 @@ border-color: darkred;
 }
 
 td {
-    margin: 0,5em 0em 0,5em 0em;
+    background-color: burlywood;
     padding:0,5em;
     color:darkorange;
     border-style: solid;
@@ -15,14 +15,14 @@ td {
 }
 
 tr {
-    margin:0,5em 0em 0,5em 0;
+    background-color: tomato;
     padding: 0.5em;
     color: olive;
     border-style:solid; 
     border-color: steelblue;
 }
 table {
-    margin:0,5em 0 0,5em 0;
+    background-color: darkblue;
     padding:0,5em;
     color:tomato;
     border-style:solid;
