@@ -35,6 +35,8 @@ h1 {
     padding:1,5em;
     animation-name:colorize;
     animation-duration: 2s;
+    animation-iteration-count: infinite;
+   animation-direction:alternate;
 }
 img {
     padding:1em;
