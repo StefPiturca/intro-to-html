@@ -73,9 +73,10 @@ p {
 }
 a:hover {
     color:salmon;
-    font-size:1em;
+    transform: scale(1.1);
 }
 img:hover {
-    transform: rotate(360deg);
+    transform:rotate(360deg);
     transform:translate(50px,100px);
+    transform:scale(1.2);
 }
