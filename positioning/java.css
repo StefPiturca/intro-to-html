@@ -36,6 +36,6 @@ img {
     padding:1em;
     height:45vh;
 }
-article div {
+article,div {
     display:inline-block;
 }
