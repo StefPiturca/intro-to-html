@@ -37,6 +37,7 @@ h1 {
 img {
     padding:1em;
     height:45vh;
+    transform:rotate(45deg);
 }
 article,div {
  display:inline-block;
@@ -48,14 +49,33 @@ article ul {
 article li {
     padding:2em;
 }
-input [type="button"] {
-    background-color:orange;
-    border-style:none;
-    padding: 0,3em 1em;
-    border-radius:1em;
-    color:white,unset;
-    
+input[type="button"] {
+    background-color: orange;
+    color: white;
+    font-size: 1.0em;
+    padding: 0.3em 0.7em;
+    border-radius: 0.5em;
+    border: 0;
 }
 article {
     padding-bottom:3em;
+   display:inline;
+}
+footer {
+    background-color:rgb(39, 39, 39);
+    text-align:center;
+    color:white;
+    margin:0,3em;
+    padding:0,3em 2em;
+}
+p {
+    margin-bottom:1em;
+}
+a:hover {
+    color:salmon;
+    font-size:1em;
+}
+img:hover {
+    transform: rotate(360deg);
+    transform:translate(50px,100px);
 }
