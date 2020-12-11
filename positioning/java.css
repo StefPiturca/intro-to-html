@@ -1,8 +1,8 @@
 h1 {
     font-family:sans-serif;
     text-decoration-style:dotted;
-}
-ol {
+} 
+header ul{
     background-color: darkorange;
     padding: 0,5em;
     border-style:solid;
@@ -33,6 +33,8 @@ a {
 h1 {
     margin:1,5em;
     padding:1,5em;
+    animation-name:colorize;
+    animation-duration: 2s;
 }
 img {
     padding:1em;
@@ -79,4 +81,12 @@ img:hover {
     transform:rotate(360deg);
     transform:translate(50px,100px);
     transform:scale(1.2);
+}
+@keyframes colorize {
+    from {
+        color:red;
+    }
+   to {
+       color:orangered;
+   }
 }
