@@ -19,7 +19,7 @@ body {
     font-family:sans-serif;
 }
 header {
-    background-color: rgb (200, 200, 200);
+    background-color: rgb (210, 210, 210);
 }
 li {
     display:inline;
@@ -27,4 +27,15 @@ li {
 a {
     padding:1em;
     margin:0,5em;
+}
+h1 {
+    margin:1,5em;
+    padding:1,5em;
+}
+img {
+    padding:1em;
+    height:45vh;
+}
+article div {
+    display:inline-block;
 }
