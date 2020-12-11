@@ -9,3 +9,22 @@ ol {
     font-family:'Courier New';
     font-style: italic;
 }
+/* css reset */
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body {
+    font-family:sans-serif;
+}
+header {
+    background-color: rgb (200, 200, 200);
+}
+li {
+    display:inline;
+}
+a {
+    padding:1em;
+    margin:0,5em;
+}
