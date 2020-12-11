@@ -18,8 +18,9 @@ ol {
 body {
     font-family:sans-serif;
 }
-header {
+header li {
     background-color: rgb (210, 210, 210);
+    display:inline;
 }
 li {
     display:inline;
