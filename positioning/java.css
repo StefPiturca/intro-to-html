@@ -1,0 +1,10 @@
+h1 {
+    font-family:sans-serif;
+    text-decoration-style:dotted;
+}
+ol {
+    background-color: darkorange;
+    padding: 0,5em;
+    border-style:solid;
+    border-color:aqua;
+}
