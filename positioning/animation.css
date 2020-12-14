@@ -2,14 +2,43 @@ div {
     width:5em;
     height:5em;
     background-color: olivedrab;
-    animation-name: move;
-    animation-duration: 3s;
+    animation-name: photobombing,colorchange;
+    animation-duration: 2s;
     animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-}
+    animation-iteration-count: 2;
+    animation-direction: normal;
+   animation-timing-function: ease-in-out;
+ }
 @keyframes move {
-    to {
+    25% {
         transform:translateX(90vw) rotate(720deg);
     }
+    50% {
+        transform:translate(90vw,90vh) rotate(1440deg);
+    }
+    75% {
+        transform:translate(0, 90vh) rotate(2160deg);
+    }
 }
+@keyframes photobombing {
+    from {
+        transform: translateX(-5em);
+    }
+    60% {
+        transform:translate(60vw);
+    }
+    to {
+        transform:translate(45vw);
+    }
+}
+   @keyframes colorchange {
+       25% {
+           background: red;
+           color: cyan;
+       }
+
+       50% {
+           background: green;
+           color: magenta;
+       }
+    }
