@@ -7,7 +7,7 @@ h1,article{
     font-style:italic;
     box-sizing:border-box;
     border-color:orange;
-    border:solid 2em;
+    border:solid;
     border-radius: 2px;
 }
 P {
