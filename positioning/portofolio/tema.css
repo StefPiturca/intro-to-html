@@ -1,0 +1,13 @@
+nav {
+    border:0,7em solid black;
+    margin:0,5em,0,7em auto auto;
+    padding:0,5em;
+}
+h1,h2 {
+    font-style:italic;
+    box-sizing:border-box;
+    border-color:orange;
+}
+P {
+    font=family:sans-serif
+}
