@@ -6,7 +6,6 @@ nav {
 h1,article{
     font-style:italic;
     box-sizing:border-box;
-    border-color:orange;
     border:solid;
     border-radius: 2px;
 }
