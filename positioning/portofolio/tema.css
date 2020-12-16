@@ -1,12 +1,14 @@
 nav {
-    border:0,7em solid black;
+    border:0,7em solid;
     margin:0,5em,0,7em auto auto;
     padding:0,5em;
 }
-h1,h2 {
+h1,article{
     font-style:italic;
     box-sizing:border-box;
     border-color:orange;
+    border:solid 2em;
+    border-radius: 2px;
 }
 P {
     font=family:sans-serif
