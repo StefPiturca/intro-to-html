@@ -2,12 +2,16 @@ nav {
     border:0,7em solid;
     margin:0,5em,0,7em auto auto;
     padding:0,5em;
+    border-color:black;
+    height:2em;
+    width:2em;
 }
 h1,article{
     font-style:italic;
     box-sizing:border-box;
     border:solid;
     border-radius: 2px;
+    text-decoration-color: orange;
 }
 P {
     font=family:sans-serif
